@@ -50,15 +50,15 @@ andare nel reparto del macellaio:
 - prendere olio e pasta
 - metto la spesa sul carrello
 - andare nel reparto pet
-    -se non trovo il reparto pet
+    - se non trovo il reparto pet
         - chiedere assistenza
-    -altrimenti 
+    - altrimenti 
         - mi dirigo al reparto
 
 - prendo le crocchette
 - metto la spesa sul carrello
 - vado verso la cassa
-- pago con il coupon il restante con i contanti
+- pago con il coupon e il restante IN contanti
 - vedo il prezzo
 -  se avanzano dei soldi
     - compro un regalo per ricky
@@ -103,3 +103,16 @@ andare nel reparto del macellaio:
         - salvare i file
     - altrimenti
         - ripetere la scansione
+assegnare un nome significativo al file
+- scegliere la cartella di destinazione nel sistema
+- salvare il file in formato PDF
+- controllare che il file sia stato salvato correttamente
+- archiviare il file nel sistema di gestione
+- eliminare i fogli cartacei:
+    - se devono essere conservati OR richiesti in futuro:
+        - riporli nell'archivio fisico
+    - altrimenti:
+        - distruggerli
+- verificare che il file sia accessibile da altri dispositivi
+- informare i colleghi che la pratica è stata archiviata
+- fine 
