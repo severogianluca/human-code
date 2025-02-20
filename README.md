@@ -70,10 +70,10 @@ andare nel reparto del macellaio:
 - prendere tutta la spesa 
 - tornare a casa
 - posare la spesa sul tavolo
-        - se è carne e latte
-            - li ripongo nel frigo 
-        - altrimenti 
-            - li ripongo nella dispensa
+    - se è carne e latte
+        - li ripongo nel frigo 
+    - altrimenti 
+        - li ripongo nella dispensa
 - ripongo il cibo nei giusti ripiani frigo/dispensa
 - do da mangiare a ricky
 - do il mio regalo a ricky 
