@@ -31,7 +31,7 @@ Lista della spesa:
 - andare nel reparto frighi
 - prendere il latte
 - metto la spesa sul carrello
-- andare nel reparto frutt e verdura
+- andare nel reparto frutta e verdura
 - cerco le verdure:
     - se trovo le verdure che voglio
         - le prendo
@@ -64,7 +64,7 @@ andare nel reparto del macellaio:
 - avanzano dei soldi
 - ho deciso di comprare un regalino per ricky
 - ritorno nel reparto pet
-- prendo un giocatollo
+- prendo un giocattolo
 - vado in cassa
 - pago il giocattolo
 - prendere tutta la spesa 
