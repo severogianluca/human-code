@@ -49,9 +49,11 @@ andare nel reparto del macellaio:
 - prendere olio e pasta
 - metto la spesa sul carrello
 - andare nel reparto pet
-- non trovo il reparto pet
-- chiedere info all'assistenza all'entrata
-- ottengo le info e vado al reparto 4
+    -se non trovo il reparto pet
+        - chiedere assistenza
+    -altrimenti 
+        - mi dirigo al reparto
+
 - prendo le crocchette
 - metto la spesa sul carrello
 - vado verso la cassa
@@ -74,7 +76,7 @@ andare nel reparto del macellaio:
         - li ripongo nel frigo 
     - altrimenti 
         - li ripongo nella dispensa
-- ripongo il cibo nei giusti ripiani frigo/dispensa
+
 - do da mangiare a ricky
 - do il mio regalo a ricky 
 - giochiamo insieme
