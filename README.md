@@ -21,7 +21,10 @@ Lista della spesa:
 <img src="ricky.jpg" alt="ricky" width="150px">
 - camminare verso il supermarket
 - entrare nel supermarket
-- prendo un carrello
+- prendo un carrello?
+    - se riesco a tenere tutto no
+    - altrimenti lo prendo
+        - prendo il carrello
 - andare nel reparto cereali
 - prendere i cereali
 - metto la spesa sul carrello
@@ -54,15 +57,15 @@ andare nel reparto del macellaio:
 - vado verso la cassa
 - pago con il coupon il restante con i contanti
 - vedo il prezzo
-- avanzano dei soldi
-- che faccio?
+-  se avanzano dei soldi
     - compro un regalo per ricky
-    - compro delle merendine
-        - ho deciso compro un regalino per ricky
+    -  altrimenti compro delle merendine
+- avanzano dei soldi
+- ho deciso di comprare un regalino per ricky
 - ritorno nel reparto pet
 - prendo un giocatollo
 - vado in cassa
-- pagare il giocattolo
+- pago il giocattolo
 - prendere tutta la spesa 
 - tornare a casa
 - posare la spesa sul tavolo
