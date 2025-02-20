@@ -1,6 +1,7 @@
 # Human code
 
-## Ho finito il cibo è tempo di andare a comprare qualcosa!
+## A) Fare la spesa seguendo una lista
+### Ho finito il cibo è tempo di andare a comprare qualcosa!
 
 Lista della spesa:
 - vado a prendere un pezzo di carta o un blocco note
@@ -80,3 +81,25 @@ andare nel reparto del macellaio:
 - do da mangiare a ricky
 - do il mio regalo a ricky 
 - giochiamo insieme
+
+
+## B) Scansionare un documento su più fogli fronte-retro
+
+- prendere la pratica dal tavolo
+- controllare che tutti i fogli siano presenti e in ordine
+- accendere lo scanner
+- verificare se lo scanner ha il fronte-retro automatico:
+    - se ha il fronte-retro automatico:
+        - inserire i fogli nello scanner
+        - avviare la scansione
+    - altrimenti:
+        - per ogni foglio:
+            - inserire il primo lato del foglio
+            - avviare la scansione
+            - girare il foglio
+            - avviare la scansione dell'altro lato
+- verificare la qualità della scansione:
+    - se la scansione è chiara and leggibile:
+        - salvare i file
+    - altrimenti
+        - ripetere la scansione
