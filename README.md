@@ -59,7 +59,8 @@ andare nel reparto del macellaio:
 - vedo il prezzo
 -  se avanzano dei soldi
     - compro un regalo per ricky
-    -  altrimenti compro delle merendine
+    -  altrimenti 
+        -  compro delle merendine
 - avanzano dei soldi
 - ho deciso di comprare un regalino per ricky
 - ritorno nel reparto pet
